@@ -1,0 +1,332 @@
+[{
+    "Gênesis": {
+        "id": "1",
+        "name": "Gênesis",
+        "value": "genesis"
+    },
+    "Êxodo": {
+        "id": "2",
+        "name": "Êxodo",
+        "value": "exodo"
+    },
+    "Levítico": {
+        "id": "3",
+        "name": "Levítico",
+        "value": "levitico"
+    },
+    "Números": {
+        "id": "4",
+        "name": "Levítico",
+        "value": "levitico"
+    },
+    "Deuteronômio": {
+        "id": "5",
+        "name": "Deuteronômio",
+        "value": "deuteronomio"
+    },
+    "Josué": {
+        "id": "6",
+        "name": "Josué",
+        "value": "josue"
+    },
+    "Juízes": {
+        "id": "7",
+        "name": "Juízes",
+        "value": "juizes"
+    },
+    "Rute": {
+        "id": "8",
+        "name": "Rute",
+        "value": "rute"
+    },
+    "I Samuel": {
+        "id": "9",
+        "name": "I Samuel",
+        "value": "1 samuel"
+    },
+    "II Samuel": {
+        "id": "10",
+        "name": "II Samuel",
+        "value": "2 samuel"
+    },
+    "I Reis": {
+        "id": "11",
+        "name": "I Reis",
+        "value": "1 reis"
+    },
+    "II Reis": {
+        "id": "12",
+        "name": "II Reis",
+        "value": "2 reis"
+    },
+    "I Crônicas": {
+        "id": "13",
+        "name": "I Crônicas",
+        "value": "1 cronicas"
+    },
+    "II Crônicas": {
+        "id": "14",
+        "name": "II Crônicas",
+        "value": "2 cronicas"
+    },
+    "Esdras": {
+        "id": "15",
+        "name": "Esdras",
+        "value": "esdras"
+    },
+    "Neemias": {
+        "id": "16",
+        "name": "Neemias",
+        "value": "neemias"
+    },
+    "Ester": {
+        "id": "17",
+        "name": "Ester",
+        "value": "ester"
+    },
+    "Jó": {
+        "id": "18",
+        "name": "Jó",
+        "value": "jo"
+    },
+    "Salmos": {
+        "id": "19",
+        "name": "Salmos",
+        "value": "salmos"
+    },
+    "Provérbios": {
+        "id": "20",
+        "name": "Provérbios",
+        "value": "proverbios"
+    },
+    "Eclesiastes": {
+        "id": "21",
+        "name": "Eclesiastes",
+        "value": "eclesiastes"
+    },
+    "Cantares": {
+        "id": "22",
+        "name": "Cantares",
+        "value": "cantares"
+    },
+    "Isaías": {
+        "id": "23",
+        "name": "Isaías",
+        "value": "isaias"
+    },
+    "Jeremias": {
+        "id": "24",
+        "name": "Jeremias",
+        "value": "jeremias"
+    },
+    "Lamentações": {
+        "id": "25",
+        "name": "Lamentações",
+        "value": "lamentacoes de jeremias"
+    },
+    "Ezequiel": {
+        "id": "26",
+        "name": "Ezequiel",
+        "value": "ezequiel"
+    },
+    "Daniel": {
+        "id": "27",
+        "name": "Daniel",
+        "value": "daniel"
+    },
+    "Oséias": {
+        "id": "28",
+        "name": "Oséias",
+        "value": "oseias"
+    },
+    "Joel": {
+        "id": "29",
+        "name": "Joel",
+        "value": "joel"
+    },
+    "Amós": {
+        "id": "30",
+        "name": "Amós",
+        "value": "amos"
+    },
+    "Obadias": {
+        "id": "31",
+        "name": "Obadias",
+        "value": "obadias"
+    },
+    "Jonas": {
+        "id": "32",
+        "name": "Jonas",
+        "value": "jonas"
+    },
+    "Miquéias": {
+        "id": "33",
+        "name": "Miquéias",
+        "value": "miqueias"
+    },
+    "Naum": {
+        "id": "34",
+        "name": "Naum",
+        "value": "naum"
+    },
+    "Habacuque": {
+        "id": "35",
+        "name": "Habacuque",
+        "value": "habacuque"
+    },
+    "Sofonias": {
+        "id": "36",
+        "name": "Sofonias",
+        "value": "sofonias"
+    },
+    "Ageu": {
+        "id": "37",
+        "name": "Ageu",
+        "value": "ageu"
+    },
+    "Zacarias": {
+        "id": "38",
+        "name": "Zacarias",
+        "value": "zacarias"
+    },
+    "Malaquias": {
+        "id": "39",
+        "name": "Malaquias",
+        "value": "malaquias"
+    },
+    "Mateus": {
+        "id": "40",
+        "name": "Mateus",
+        "value": "mateus"
+    },
+    "Marcos": {
+        "id": "41",
+        "name": "Marcos",
+        "value": "marcos"
+    },
+    "Lucas": {
+        "id": "42",
+        "name": "Lucas",
+        "value": "lucas"
+    },
+    "João": {
+        "id": "43",
+        "name": "João",
+        "value": "joão"
+    },
+    "Atos dos Apóstolos": {
+        "id": "44",
+        "name": "Atos dos Apóstolos",
+        "value": "atos"
+    },
+    "Romanos": {
+        "id": "45",
+        "name": "Romanos",
+        "value": "romanos"
+    },
+    "I Coríntios": {
+        "id": "46",
+        "name": "I Coríntios",
+        "value": "1 corintios"
+    },
+    "II Coríntios": {
+        "id": "47",
+        "name": "II Coríntios",
+        "value": "2 corintios"
+    },
+    "Gálatas": {
+        "id": "48",
+        "name": "Gálatas",
+        "value": "galatas"
+    },
+    "Efésios": {
+        "id": "49",
+        "name": "Efésios",
+        "value": "efesios"
+    },
+    "Filipenses": {
+        "id": "50",
+        "name": "Filipenses",
+        "value": "filipenses"
+    },
+    "Colossenses": {
+        "id": "51",
+        "name": "Colossenses",
+        "value": "colossenses"
+    },
+    "I Tessalonicenses": {
+        "id": "52",
+        "name": "I Tessalonicenses",
+        "value": "1 tessalonicenses"
+    },
+    "II Tessalonicenses": {
+        "id": "53",
+        "name": "II Tessalonicenses",
+        "value": "2 tessalonicenses"
+    },
+    "I Timóteo": {
+        "id": "54",
+        "name": "I Timóteo",
+        "value": "1 timoteo"
+    },
+    "II Timóteo": {
+        "id": "55",
+        "name": "II Timóteo",
+        "value": "2 timóteo"
+    },
+    "Tito": {
+        "id": "56",
+        "name": "Tito",
+        "value": "tito"
+    },
+    "Filemon": {
+        "id": "57",
+        "name": "Filemon",
+        "value": "filemon"
+    },
+    "I Pedro": {
+        "id": "58",
+        "name": "I Pedro",
+        "value": "1 pedro"
+    },
+    "II Pedro": {
+        "id": "59",
+        "name": "II Pedro",
+        "value": "2 pedro"
+    },
+    "I João": {
+        "id": "60",
+        "name": "I João",
+        "value": "1 joao"
+    },
+    "II João": {
+        "id": "61",
+        "name": "II João",
+        "value": "2 joao"
+    },
+    "III João": {
+        "id": "62",
+        "name": "III João",
+        "value": "3 joao"
+    },
+    "Hebreus": {
+        "id": "63",
+        "name": "Hebreus",
+        "value": "hebreus"
+    },
+    "Tiago": {
+        "id": "64",
+        "name": "Tiago",
+        "value": "tiago"
+    },
+    "Judas": {
+        "id": "65",
+        "name": "Judas",
+        "value": "judas"
+    },
+    "Apocalipse": {
+        "id": "66",
+        "name": "Apocalipse",
+        "value": "apocalipse"
+    }
+}]
